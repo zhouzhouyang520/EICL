@@ -31,13 +31,13 @@
   "debug": false,
   "api": {
     "gpt": {
-      "url": "https://api.jisuai.top/v1/chat/completions",
-      "api_key": "sk-uBguU9hxICPzFIG1tAeb6Wiy3iD2A8TCXGnATxaBxoS3TpSY",
+      "url": "https://XXX/v1/chat/completions",
+      "api_key": "",
       "model": "gpt-4o-mini"
     },
     "claude": {
-      "url": "https://api.jisuai.top/v1/chat/completions",
-      "api_key": "sk-uBguU9hxICPzFIG1tAeb6Wiy3iD2A8TCXGnATxaBxoS3TpSY",
+      "url": "https://XXX/v1/chat/completions",
+      "api_key": "",
       "model": "claude-haiku-4-5-20251001"
     }
   }
