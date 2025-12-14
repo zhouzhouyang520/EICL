@@ -117,7 +117,12 @@ sh eicl.sh 0  # 0 is the GPU ID
 
 ## Performance
 
-**Important Note**: Due to accidental deletion of previous data and code, we had to reconstruct the codebase in a different environment. As a result, there are some differences in data splits and the models used (mainly two large-scale language models) compared to the original paper. Despite these differences, the proposed EICL still maintains excellent performance, demonstrating its effectiveness.
+**Important Note**: Due to accidental deletion of previous data and code, we reconstructed the codebase in a different environment. The current implementation differs from the original paper in the following aspects:
+(1) Data Re-splitting: The datasets were re-partitioned, which may cause slight performance differences.
+
+(2) Updated Models: We use more advanced large language models—Claude-Haiku-4.5 and GPT-4o-mini. Although the original EICL experiments used Claude-Haiku and ChatGPT-3.5-Turbo, those models are now outdated. To build more comparable and up-to-date baselines, we adopted the newer models.
+
+Despite these differences, EICL continues to deliver excellent performance, demonstrating its robustness and effectiveness.
 
 The following tables present the performance results (Accuracy and Macro F1) on different datasets using different auxiliary models. All results are reported as percentages.
 
@@ -441,5 +446,6 @@ If you find this project helpful, please cite our paper:
 # EICL
 This is the code for the paper Fine-Grained Emotion Recognition via In-Context Learning, published at CIKM 2025.
 >>>>>>> 224697e2136eb23dce4e47c6bec8d69fbf4dcf66
+
 
 
