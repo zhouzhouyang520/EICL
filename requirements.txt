@@ -1,0 +1,44 @@
+# Core dependencies
+tqdm
+numpy
+jsonlines
+requests
+
+# Machine Learning frameworks
+# Note: Install PyTorch from https://pytorch.org/ based on your CUDA version
+# Example for CUDA 11.8: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# Example for CPU only: pip install torch torchvision torchaudio
+torch
+
+# TensorFlow (install appropriate version for your system)
+# For GPU support: pip install tensorflow[and-cuda] or tensorflow-gpu
+tensorflow
+
+transformers==4.36.2
+accelerate==0.24.0
+tokenizers==0.15.0
+
+# NLP libraries
+nltk
+spacy
+scikit-learn
+
+# Vector similarity search
+# For GPU support, use faiss-gpu instead (requires CUDA)
+faiss-cpu
+
+# Legacy: PyTorch transformers (used by EmpatheticIntents)
+# Note: pytorch-transformers is deprecated. If installation fails,
+# you may need to modify EmpatheticIntents code to use transformers instead
+pytorch-transformers
+
+# Model file handling
+# h5py is needed for loading TensorFlow/Keras model weights (.h5 files)
+h5py
+
+# Configuration files (used by EmpatheticIntents)
+pyyaml
+
+# Optional: Flash Attention for faster training (requires CUDA and specific compiler)
+# Uncomment if you have compatible GPU setup and want faster attention computation:
+# flash-attn==2.3.6

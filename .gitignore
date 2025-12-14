@@ -1,0 +1,48 @@
+# Data files
+data.zip
+*.zip
+
+# Output directories
+output/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files (if needed)
+# models/LLMs/
+# models/pre_trained_models/
+
+# Log files
+*.log
+out.log
+
+# Push script (contains sensitive info)
+push_to_github.sh
+

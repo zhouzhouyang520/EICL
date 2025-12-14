@@ -1,0 +1,101 @@
+{
+  "EI_auxiliary_model": {
+    "EDOS": {},
+    "ED": {},
+    "GE": {
+      "Phi-3.5": {
+        "alpha": 0.9,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      },
+      "Mistral-Nemo": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      },
+      "Llama3.1_8b": {
+        "alpha": 0.2,
+        "label_score_num": 5,
+        "label_num": 5,
+        "generate_batch_size": 10
+      },
+      "GPT": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 2,
+        "generate_batch_size": 10
+      },
+      "Claude": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      }
+    },
+    "default": {
+      "alpha": 0.2,
+      "label_score_num": 5,
+      "label_num": 2,
+      "generate_batch_size": 10
+    }
+  },
+  "GE_auxiliary_model": {
+    "EDOS": {
+      "Phi-3.5": {
+        "alpha": 0.1,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      }
+    },
+    "ED": {
+      "Llama3.1_8b": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 2,
+        "generate_batch_size": 10
+      },
+      "Mistral-Nemo": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      },
+      "GPT": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 2,
+        "generate_batch_size": 10
+      }
+    },
+    "EI": {
+      "Phi-3.5": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      },
+      "Mistral-Nemo": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      },
+      "Llama3.1_8b": {
+        "alpha": 0.2,
+        "label_score_num": 1,
+        "label_num": 1,
+        "generate_batch_size": 10
+      }
+    },
+    "default": {
+      "alpha": 0.2,
+      "label_score_num": 5,
+      "label_num": 2,
+      "generate_batch_size": 10
+    }
+  }
+}
+

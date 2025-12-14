@@ -1,0 +1,74 @@
+{
+  "auxiliary_model": "EI",
+  "small_models": ["Phi-3.5", "Llama3.1_8b", "Mistral-Nemo"],
+  "large_models": ["ChatGPT", "Claude"],
+  "data_root": "data",
+  "data_path_template": "{auxiliary_model}_auxiliary_model_data/{data_name}",
+  "json_output_root": "data/json_data",
+  "json_path_template": "{json_output_root}/{experiment_type}/{auxiliary_model}/{data_type}_tst.json",
+  "runtime_data_path": "data/json_data",
+  "output_path_template": "./output/{experiment_type}/{auxiliary_model}/{data_type}_{model_name}_{experiment_type}_{auxiliary_model}_generated_predictions.jsonl",
+  "example_num": 5,
+  "emotion_labels": {
+    "ed": "surprised,excited,annoyed,proud,angry,sad,grateful,lonely,impressed,afraid,disgusted,confident,terrified,hopeful,anxious,disappointed,joyful,prepared,guilty,furious,nostalgic,jealous,anticipating,embarrassed,content,devastated,sentimental,caring,trusting,ashamed,apprehensive,faithful",
+    "edos": "afraid,agreeing,angry,annoyed,anticipating,anxious,apprehensive,ashamed,caring,confident,consoling,content,devastated,disappointed,disgusted,embarrassed,encouraging,excited,faithful,furious,grateful,guilty,hopeful,impressed,jealous,joyful,lonely,neutral,nostalgic,prepared,proud,questioning,sad,sentimental,suggesting,surprised,sympathizing,terrified,trusting,wishing",
+    "ge": "afraid,angry,annoyed,anxious,caring,disappointed,disgusted,embarrassed,excited,grateful,guilty,hopeful,impressed,joyful,neutral,proud,sad,surprised,wishing"
+  },
+  "instruction_templates": {
+    "baseline": {
+      "first_prompt": "Infer the emotion of the dialogue context.",
+      "last_prompt": ""
+    },
+    "ICL": {
+      "first_prompt": "Based on the labeled examples provided, infer the emotion of the dialogue context.\n-The Dialogue example and True emotion label refer to the relevant dialogue and corresponding label.",
+      "last_prompt": ""
+    },
+    "EICL": {
+      "first_prompt": "Based on the labeled examples provided, infer the emotion of the dialogue context.\n- Dialogue example, Predicted emotion, and probability represent the relevant example, its ground truth labels, and the associated probabilities.",
+      "last_prompt": "- Prioritize the 'More likely emotion label' during inference."
+    },
+    "zero-shot": {
+      "first_prompt": "Infer the emotion of the dialogue context.",
+      "last_prompt": ""
+    }
+  },
+  "instruction_base_template": "{first_prompt}\n- Dialogue context: The conversation history between speaker and listener, with utterances separated by </s>.\n- Emotion labels: {emotion_labels}\n- Choose a single inferred emotion from the provided \"Emotion labels,\" not outside of them.\n- Response Format: Emotion: [a single inferred emotion]\n{last_prompt}",
+  "model_base_path": "./models/LLMs",
+  "data_batch_size": 16,
+  "generation_batch_size": 2,
+  "generation_batch_size_overrides": {
+    "baseline": {
+      "Phi-3.5": 24,
+      "Llama3.1_8b": 16,
+      "Mistral-Nemo": 10,
+      "ChatGPT": 10,
+      "Claude": 10,
+      "default": 2
+    },
+    "ICL": {
+      "Phi-3.5": 16,
+      "Llama3.1_8b": 10,
+      "Mistral-Nemo": 8,
+      "ChatGPT": 10,
+      "Claude": 10,
+      "default": 2
+    },
+    "EICL": {
+      "Phi-3.5": 12,
+      "Llama3.1_8b": 8,
+      "Mistral-Nemo": 6,
+      "ChatGPT": 10,
+      "Claude": 10,
+      "default": 2
+    },
+    "default": 2
+  },
+  "use_gpu": true,
+  "device_id": "0",
+  "embed_model_auto": true,
+  "default_embed_model": {
+    "EICL": "emotion",
+    "default": "semantic"
+  }
+}
+
