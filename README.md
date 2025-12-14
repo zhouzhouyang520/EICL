@@ -30,27 +30,6 @@ cd EICL
 pip install -r requirements.txt
 ```
 
-**Note on PyTorch and TensorFlow installation:**
-
-- **PyTorch**: Install PyTorch based on your CUDA version from [pytorch.org](https://pytorch.org/)
-  - For CUDA 11.8: `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118`
-  - For CPU only: `pip install torch torchvision torchaudio`
-
-- **TensorFlow**: Install the appropriate version for your system
-  - For GPU support: `pip install tensorflow[and-cuda]` or `tensorflow-gpu`
-  - For CPU only: `pip install tensorflow`
-
-3. (Optional) Install Flash Attention for faster training (requires CUDA and specific compiler):
-```bash
-pip install flash-attn==2.3.6
-```
-
-4. Download required NLP models:
-```bash
-python -m spacy download en_core_web_sm
-python -m nltk.downloader punkt
-```
-
 ## Data Download
 
 Download the required data from one of the following sources:
@@ -462,4 +441,5 @@ If you find this project helpful, please cite our paper:
 # EICL
 This is the code for the paper Fine-Grained Emotion Recognition via In-Context Learning, published at CIKM 2025.
 >>>>>>> 224697e2136eb23dce4e47c6bec8d69fbf4dcf66
+
 
