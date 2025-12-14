@@ -1,0 +1,793 @@
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: sadness\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: surprise\n\n- The speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: admiration\n\nThe provided context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n- The most likely em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joyful\n\n(Note:", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: annoyance\n\nThe response", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: angry\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: admiration\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: admiration\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: afraid\n- The context includes phr", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: questioning\n- The speaker is", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: impressed\n- The context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: caring\n- The context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: admiration\n- The response \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: disappointment\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: afraid\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context provided shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: embarrassment\n\nThe speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: anxious\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: embarrassment\n- The speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n- The context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: caring\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n- The speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context mentions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n- The context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: anxiety\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"Good", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n- The context expresses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: joy\n\nThe context includes phr", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: devastation\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context provided includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe speaker mentions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: anger\n\nThe inferred em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: sadness\n- The context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n- The context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe context \"Go", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\n- The context express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: confidence\n- The context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: gratitude\n\nThe context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: joyful\n\n(Note:", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: annoyance\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: anger\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: excitement\n\nThe context indicates anticip", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: questioning\n- The speaker is", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: pride\n\nThe context includes positive", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context \"We", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: angry\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"good", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\nDialogue context: Ted", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: joy\n\nThe context \"I", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: admiration\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe predicted em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\n- The context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n- The context shows anticip", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n- The context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n- The context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: optimism\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\n- The context of", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: surprise\n- The mention of \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: neutral\n\nThe provided context does", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: annoyance\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context repeatedly", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe context indicates concern", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joyful\n\nThe most likely", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: wishing\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: admiration\n\nThe context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: optimism\n- The speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: neutral\n\nThe provided context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: joy\n\nThe context includes phr", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: concern\n\n(Note: The", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The context discusses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: angry\n- The dialogue includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n- The context shows a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: gratitude\n\nThe context of", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: anger\n\nThe speaker expresses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: questioning\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n- The context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: optimism\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: anger\n\nThe speaker expresses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: remorse\n\nThe response", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: fear\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: questioning\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: embarrassment\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: content\n\nThe context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: afraid\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: excitement\n- The predicted emotion", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"Good", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: afraid\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: gratitude\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: annoyance\n\nThe speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: admiration\n- The context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context \"Throw", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context provided shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The context repeatedly emphas", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: agreement\nResponse Format: Emotion", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: surprise\n\nThe context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: excitement\n\nThe context of the", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: faithful\n\nNote: The em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n- The context mentions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: apprehensive\n\nThe provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context provided indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: remorse\n- The response", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe context \"I", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: embarrassment\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: caring\n\nThe context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context mentions \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: wishing\n- The context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: surprise\n\nThe context indicates that", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: desire\n\nThe context of the", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: Desire\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe context includes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context repeatedly", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The context suggests that", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: angry\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: guilt\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n- The dialogue express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe context provided includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: questioning\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: angry\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: anger\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: gratitude\n- The predicted em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: neutral\n\nThe response \"No", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: sadness\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe speaker is", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: disappointment\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n[/INST", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n- The context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: neutral\n\nThe context \"But", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: anxious\n\nThe provided dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context includes positive", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: loneliness\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"Wel", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: embarrassment\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context mentions positive", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: admiration\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe context of", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: grief\n\n(Note:", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: Admiration\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context suggests an", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n\nThe speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: disappointment\n- The context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: remorse\n- The speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: Desire\n\nThe speaker is", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: pride\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: optimism\n- The predicted em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: lonely\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: remorse\n\nThe speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: faithful\n\nHowever, the provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n\nThe context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe context \"Ste", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: caring\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context \"What", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: disappointment\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: guilt\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\nThe context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n- The response \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: embarrassment\n\nThe speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context mentions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: afraid\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: caring\n\nThe context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n- The context and", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe mention of tw", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe context \"Please", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: optimism\n\nThe predicted em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: anger\n\nThe inferred em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: excitement\n- The context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: discretion (Note: While", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: neutral\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: pride\n- The context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\nThe context discusses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: caring\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: admiration\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context \"Oh", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: disappointment\n- The speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: apprehensive\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: disappointment\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\n(Note:", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n- The context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\nThe mention of", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: trusting\n- The context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n- The context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joyful\n\nThe most likely", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: pride\n\nThe context discusses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: neutral\n\nThe context provided does", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: congratulations\n\nThe", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context indicates that", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: desire\n\nThe speaker expresses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: furious\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: proud\n\nThe context provided indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: optimism\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: admiration\n\nThe response \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: caring\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: furious\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe context \"I", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: disappointment\n\nThe context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe context \"I", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: surprise\n\nThe response is based", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe context describes someone", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: admiration\n\nThe context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: angry\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n- The context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: disappointment\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context \"In", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: annoyance\n- The context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n- The predicted", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: excitement\n\nThe context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: pride\n\nThe context \"Well", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: embarrassment\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context mentions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"Hello", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: embarrassment\n- The context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: gratitude\n- The speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: wishing\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: admiration\n\nThe context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe context \"I", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: concern\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: anticipating\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe most", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anxiety\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: guilt\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: admiration\n\nThe context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context includes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: remorse\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n- The context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n- The context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: anticipating\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: wishing\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe predicted", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe infer", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: gratitude\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n- The context indicates that", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: devastation\n\n(Note", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n- The mention of \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: sadness\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n- The context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n- The speaker", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe response \"I", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: annoyance\n\nThe predicted", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: wishing\n\nThe term \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\n- The context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: remorse\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: terrified\n- The context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: neutral\n\nThe context \"H", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n- The context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: afraid\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: admiration\n\nThe predicted em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n- The context mentions going", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: angry\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: encouraging\n\nThe context of", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: admiration\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: questioning\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe context discusses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: neutral\n\nThe context provided discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: consoling\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: optimism\n\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: disgust\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: disappointment\n- The context mentions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context clearly", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe speaker expresses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context includes expressions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: caring\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: disappointment\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: impressed\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: joy\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: nervousness\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n- The context mentions a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: excitement\n\nThe context of the", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe context suggests", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The context \"You", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: Disappointment\n\nThe", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"It", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: excitement\n\nThe context \"Look", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: surprise\n\nThe context \"Rich", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe most likely em", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"C", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe context of", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: optimism\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joyful\n\n(Note:", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: pride\n\nThe context discusses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: angry\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n- The speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe context describes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe context describes an", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n- The context includes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context mentions", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: surprise\n\nThe speaker expresses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: annoyance\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: disgust\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: pride\n\nThe context \"J", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: remorse\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe context \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n- The dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: desire\n\nThe context provided shows", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: concern\n\nThe context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The context suggests that", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: desire\n\nThe context \"C", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe speaker expresses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n- The context suggests concern", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: joy\n\nThe context suggests a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The dialogue express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: fear\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe mention of \"", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: remorse\n\nThe predicted", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: hopeful\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: neutral\nThe predicted emotion with", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: surprise\n\nThe context suggests that", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe context includes a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: remorse\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: disappointment\n- The context express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context \"She", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context \"I", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: surprise\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: pride\n- The context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disgust", "predict": " Emotion: annoyance\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Annoyance", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Embarrassment", "predict": " Emotion: embarrassment\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Pride", "predict": " Emotion: admiration\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: sadness\n- The context discuss", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Disappointment", "predict": " Emotion: disappointment\nThe context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Excitement", "predict": " Emotion: excitement\n\nThe context indicates anticip", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: apprehensive\n\nThe context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Remorse", "predict": " Emotion: embarrassment\nThe speaker express", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: gratitude\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Nervousness", "predict": " Emotion: fear\n\nThe context discusses", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: questioning\n- The context involves", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Sadness", "predict": " Emotion: sadness\n\nThe context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: disappointment\n- The context indicates", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: excitement\n\nThe context indicates anticip", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Admiration", "predict": " Emotion: impressed\n- The dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: angry\n- The dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: caring\n- The context provided", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Optimism", "predict": " Emotion: neutral\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Surprise", "predict": " Emotion: impressed\n\nThe context describes", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Neutral", "predict": " Emotion: Surprise\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Desire", "predict": " Emotion: gratitude\n\nThe dialogue", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: fear\n\nThe context suggests concern", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Caring", "predict": " Emotion: concern\n\nThe context indicates a", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Fear", "predict": " Emotion: annoyance\n\nThe dialog", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Anger", "predict": " Emotion: anger\n\nThe context indicates fr", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Gratitude", "predict": " Emotion: grateful\n\nThe dialogue context", "sample_idx": 0, "avg_weight": 0.0}
+{"label": "Emotion:Joy", "predict": " Emotion: joy\n\nThe context \"I", "sample_idx": 0, "avg_weight": 0.0}

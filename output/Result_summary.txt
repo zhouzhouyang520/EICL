@@ -1,0 +1,4940 @@
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:09:08
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-09 18:09:11.590052	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+100.000, 0.000, 10.000, 10.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:11:24
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-09 18:11:27.465611	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+50.000, 30.476, 5.000, 10.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:14:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:17:02
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:18:51
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:19:56
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:21:49
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:24:24
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-09 18:24:26.957850	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+50.000, 33.333, 5.000, 10.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:29:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 18:47:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-09 18:50:36.224146	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.756, 34.296, 1879.000, 5255.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-09 19:03:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 16:13:11
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 16:14:14
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-10 16:20:19.476781	ed_Mistral-Nemo_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+47.574, 31.282, 2500.000, 5255.000
+Output path: ./output/baseline/EI/ed_Mistral-Nemo_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 16:23:01
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 16:23:22
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 16:40:28
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 16:47:02
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-10 16:50:03.609363	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.718, 34.264, 1877.000, 5255.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:11:58
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-10 17:14:59.377724	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.699, 34.048, 1876.000, 5255.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:18:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:29:05
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:31:48
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:33:00
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-10 17:36:01.926508	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.699, 34.048, 1876.000, 5255.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:36:22
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-10 17:45:14.326745	ed_Phi-3.5_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.929, 44.300, 2361.000, 5255.000
+Output path: ./output/ICL/EI/ed_Phi-3.5_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:45:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:49:15
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:51:52
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:55:48
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 17:59:35
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 18:03:36
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-10 18:04:34
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-10 21:46:02.415118	ed_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+48.088, 47.948, 2527.000, 5255.000
+Output path: ./output/EICL/EI/ed_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 14:24:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 14:30:56.974241	ed_Mistral-Nemo_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+37.279, 34.731, 1959.000, 5255.000
+Output path: ./output/baseline/EI/ed_Mistral-Nemo_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 14:32:08
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 14:33:41
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 14:37:11
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 14:38:14
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 14:52:49.758223	ed_Mistral-Nemo_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+38.440, 38.487, 2020.000, 5255.000
+Output path: ./output/ICL/EI/ed_Mistral-Nemo_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 14:53:44
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:00:48
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:06:49
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:08:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 15:12:59.692078	ed_Llama3.1_8b_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+19.144, 18.859, 1006.000, 5255.000
+Output path: ./output/baseline/EI/ed_Llama3.1_8b_baseline_EI_generated_predictions.jsonl
+
+2025-12-11 15:22:37.828679	ed_Llama3.1_8b_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+14.462, 21.437, 760.000, 5255.000
+Output path: ./output/ICL/EI/ed_Llama3.1_8b_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:31:59
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 15:35:44.086501	ed_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+25.385, 33.013, 1334.000, 5255.000
+Output path: ./output/EICL/EI/ed_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:35:58
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:44:09
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 15:49:23.626514	ed_Llama3.1_8b_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+29.343, 25.142, 1542.000, 5255.000
+Output path: ./output/baseline/EI/ed_Llama3.1_8b_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:52:00
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 15:58:17.536085	ed_Llama3.1_8b_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+30.904, 25.792, 1624.000, 5255.000
+Output path: ./output/baseline/EI/ed_Llama3.1_8b_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 15:59:06
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:02:19
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 16:10:42.915819	ed_Llama3.1_8b_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+32.426, 25.719, 1704.000, 5255.000
+Output path: ./output/baseline/EI/ed_Llama3.1_8b_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:15:06
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:17:04
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:26:24
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 16:28:41.888068	ed_Llama3.1_8b_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+34.025, 36.274, 1788.000, 5255.000
+Output path: ./output/ICL/EI/ed_Llama3.1_8b_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:29:39
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:47:17
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:49:10
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 16:51:36.385682	ed_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+38.972, 42.207, 2048.000, 5255.000
+Output path: ./output/EICL/EI/ed_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:51:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:52:26
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:53:47
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:54:44
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:56:00
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:57:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 16:58:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 16:59:28.312397	ed_gpt-5-nano_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+0.000, 6.667, 0.000, 10.000
+Output path: ./output/baseline/EI/ed_gpt-5-nano_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:07:43
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 17:08:24.165169	ed_gpt-5-nano_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+0.000, 6.667, 0.000, 10.000
+Output path: ./output/baseline/EI/ed_gpt-5-nano_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:09:27
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:15:49
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 17:16:28.443199	ed_Mistral-Nemo_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.081, 44.943, 2369.000, 5255.000
+Output path: ./output/EICL/EI/ed_Mistral-Nemo_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:17:20
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:17:53
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:21:50
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 17:23:11.668128	ed_gpt-5-nano_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+60.000, 49.524, 6.000, 10.000
+Output path: ./output/baseline/EI/ed_gpt-5-nano_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:25:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 17:28:40.514669	ed_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.357, 34.205, 1858.000, 5255.000
+Output path: ./output/baseline/EI/ed_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:30:31
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS",
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5",
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:36:11
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:39:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 17:42:11
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:35:30
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS",
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:36:54
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS",
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:38:30
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:39:12
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:39:38
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:41:34
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5",
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:43:14
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5",
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:46:19
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:48:47
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 18:49:59.736209	ed_gpt-5-nano_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+42.112, 38.916, 2213.000, 5255.000
+Output path: ./output/baseline/EI/ed_gpt-5-nano_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:52:13
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:53:41
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 18:55:36
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 19:00:59.915512	edos_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+33.294, 34.397, 571.000, 1715.000
+Output path: ./output/baseline/EI/edos_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+2025-12-11 19:03:35.033757	ed_gpt-5-nano_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+42.873, 39.644, 2253.000, 5255.000
+Output path: ./output/baseline/EI/ed_gpt-5-nano_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:04:19
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:11:21
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:11:36
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 19:21:05.516219	edos_Phi-3.5_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+48.280, 47.844, 828.000, 1715.000
+Output path: ./output/ICL/EI/edos_Phi-3.5_ICL_EI_generated_predictions.jsonl
+
+2025-12-11 19:26:04.313215	ed_gpt-5-nano_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+48.487, 47.811, 2548.000, 5255.000
+Output path: ./output/ICL/EI/ed_gpt-5-nano_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:27:14
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:31:11
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-5-nano"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 19:39:14.724893	edos_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+56.385, 56.370, 967.000, 1715.000
+Output path: ./output/EICL/EI/edos_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+2025-12-11 19:39:43.515400	ed_gpt-5-nano_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.328, 47.774, 2382.000, 5255.000
+Output path: ./output/EICL/EI/ed_gpt-5-nano_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:41:51
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:46:07
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 19:48:02.729569	edos_Mistral-Nemo_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+28.980, 26.686, 497.000, 1715.000
+Output path: ./output/baseline/EI/edos_Mistral-Nemo_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:49:03
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:52:26
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:55:53
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 19:58:02
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 19:58:17.620689	edos_Mistral-Nemo_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.373, 44.671, 761.000, 1715.000
+Output path: ./output/ICL/EI/edos_Mistral-Nemo_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:00:16
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:01:16
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:03:30
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:09:46
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "claude-haiku-4-5-20251001"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:15:06
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:18:07
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 20:19:54.005400	ed_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+60.000, 48.889, 6.000, 10.000
+Output path: ./output/EICL/EI/ed_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:21:48
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:22:47
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 20:28:26.412722	edos_Mistral-Nemo_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+56.152, 56.244, 963.000, 1715.000
+Output path: ./output/EICL/EI/edos_Mistral-Nemo_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:29:52
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 20:32:10.124776	ed_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+51.361, 51.087, 2699.000, 5255.000
+Output path: ./output/EICL/EI/ed_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:36:31
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 20:42:46.538521	edos_Llama3.1_8b_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+23.090, 21.312, 396.000, 1715.000
+Output path: ./output/baseline/EI/edos_Llama3.1_8b_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:43:39
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 20:45:46.435650	ed_Claude-Haiku_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+50.200, 49.320, 2638.000, 5255.000
+Output path: ./output/ICL/EI/ed_Claude-Haiku_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:47:20
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:54:59
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 20:57:18
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 20:59:18.524432	edos_Llama3.1_8b_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+30.787, 34.076, 528.000, 1715.000
+Output path: ./output/ICL/EI/edos_Llama3.1_8b_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:00:05
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:01:21
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:04:53.226082	ed_Claude-Haiku_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+46.032, 43.760, 2419.000, 5255.000
+Output path: ./output/baseline/EI/ed_Claude-Haiku_baseline_EI_generated_predictions.jsonl
+
+2025-12-11 21:05:22.108401	ed_gpt-4o-mini_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+39.296, 35.244, 2065.000, 5255.000
+Output path: ./output/baseline/EI/ed_gpt-4o-mini_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:06:47
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:08:28
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:11:22.913105	ed_gpt-4o-mini_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+47.041, 45.727, 2472.000, 5255.000
+Output path: ./output/ICL/EI/ed_gpt-4o-mini_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:15:12
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:17:35
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:21:27.313661	ed_gpt-4o-mini_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+50.314, 49.724, 2644.000, 5255.000
+Output path: ./output/EICL/EI/ed_gpt-4o-mini_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:21:33
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:24:05
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:25:37.421409	edos_gpt-4o-mini_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+54.752, 54.270, 939.000, 1715.000
+Output path: ./output/EICL/EI/edos_gpt-4o-mini_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:26:52
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:28:53.508290	edos_gpt-4o-mini_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.198, 44.794, 758.000, 1715.000
+Output path: ./output/ICL/EI/edos_gpt-4o-mini_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:29:39
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:30:44
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:32:07.446715	edos_gpt-4o-mini_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+32.886, 30.194, 564.000, 1715.000
+Output path: ./output/baseline/EI/edos_gpt-4o-mini_baseline_EI_generated_predictions.jsonl
+
+2025-12-11 21:34:23.642878	edos_Claude-Haiku_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+36.035, 34.214, 618.000, 1715.000
+Output path: ./output/baseline/EI/edos_Claude-Haiku_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:35:21
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:38:29
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:42:15.922641	edos_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+57.143, 57.040, 980.000, 1715.000
+Output path: ./output/EICL/EI/edos_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:43:37
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:47:29.222185	edos_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+41.866, 45.326, 718.000, 1715.000
+Output path: ./output/EICL/EI/edos_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+2025-12-11 21:48:25.869521	edos_Claude-Haiku_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+49.271, 48.286, 845.000, 1715.000
+Output path: ./output/ICL/EI/edos_Claude-Haiku_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:51:04
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 21:51:17.074728	ge_Claude-Haiku_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.654, 37.362, 1537.000, 3442.000
+Output path: ./output/ICL/EI/ge_Claude-Haiku_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:51:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:54:10
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:55:01
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 21:56:25
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:01:10.614467	ge_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+38.873, 32.712, 1338.000, 3442.000
+Output path: ./output/EICL/EI/ge_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+2025-12-11 22:01:49.830360	ge_Claude-Haiku_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+34.079, 31.511, 1173.000, 3442.000
+Output path: ./output/baseline/EI/ge_Claude-Haiku_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:09:23
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:10:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:12:20
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:13:38
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:14:23.831044	ge_gpt-4o-mini_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.439, 36.675, 1564.000, 3442.000
+Output path: ./output/ICL/EI/ge_gpt-4o-mini_ICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:15:36
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:15:56.618232	ge_gpt-4o-mini_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.800, 36.086, 1542.000, 3442.000
+Output path: ./output/EICL/EI/ge_gpt-4o-mini_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:18:39
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:19:08.033531	ge_gpt-4o-mini_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+28.733, 26.083, 989.000, 3442.000
+Output path: ./output/baseline/EI/ge_gpt-4o-mini_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:24:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:25:13
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:26:08.513518	edos_gpt-4o-mini_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+61.412, 60.889, 487.000, 793.000
+Output path: ./output/ICL/GE/edos_gpt-4o-mini_ICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:27:04
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:27:07.007455	edos_gpt-4o-mini_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+66.456, 66.848, 527.000, 793.000
+Output path: ./output/EICL/GE/edos_gpt-4o-mini_EICL_GE_generated_predictions.jsonl
+
+2025-12-11 22:28:28.412351	edos_gpt-4o-mini_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+52.837, 51.287, 419.000, 793.000
+Output path: ./output/baseline/GE/edos_gpt-4o-mini_baseline_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:28:32
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:29:14
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:31:13.506591	edos_Claude-Haiku_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+63.052, 62.435, 500.000, 793.000
+Output path: ./output/ICL/GE/edos_Claude-Haiku_ICL_GE_generated_predictions.jsonl
+
+2025-12-11 22:33:16.306351	edos_Claude-Haiku_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+69.483, 69.106, 551.000, 793.000
+Output path: ./output/EICL/GE/edos_Claude-Haiku_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:34:04
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-11 22:35:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-11 22:36:00.715796	edos_Claude-Haiku_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+51.072, 49.363, 405.000, 793.000
+Output path: ./output/baseline/GE/edos_Claude-Haiku_baseline_GE_generated_predictions.jsonl
+
+2025-12-11 23:15:33.922551	ge_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+23.852, 25.999, 821.000, 3442.000
+Output path: ./output/EICL/EI/ge_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:31:23
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:32:49
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 11:32:50.054219	ge_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+27.513, 27.849, 947.000, 3442.000
+Output path: ./output/baseline/EI/ge_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:33:16
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 11:35:43.454413	ge_Phi-3.5_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+40.383, 33.347, 1390.000, 3442.000
+Output path: ./output/ICL/EI/ge_Phi-3.5_ICL_EI_generated_predictions.jsonl
+
+2025-12-12 11:36:30.646307	ed_Claude-Haiku_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+55.060, 56.262, 1654.000, 3004.000
+Output path: ./output/baseline/GE/ed_Claude-Haiku_baseline_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:40:03
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:40:58
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 11:47:10.403970	ed_Claude-Haiku_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+57.257, 57.941, 1720.000, 3004.000
+Output path: ./output/ICL/GE/ed_Claude-Haiku_ICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:47:30
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 11:48:33.592321	ed_Claude-Haiku_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+60.819, 61.572, 1827.000, 3004.000
+Output path: ./output/EICL/GE/ed_Claude-Haiku_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 11:48:57.320720	ge_Phi-3.5_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+27.513, 27.849, 947.000, 3442.000
+Output path: ./output/baseline/EI/ge_Phi-3.5_baseline_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:49:30
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 11:49:42
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 11:51:49.989924	ge_Phi-3.5_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+40.383, 33.347, 1390.000, 3442.000
+Output path: ./output/ICL/EI/ge_Phi-3.5_ICL_EI_generated_predictions.jsonl
+
+2025-12-12 11:52:38.506528	ed_gpt-4o-mini_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+57.623, 59.284, 1731.000, 3004.000
+Output path: ./output/EICL/GE/ed_gpt-4o-mini_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 11:52:40.885592	ed_gpt-4o-mini_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+57.656, 58.788, 1732.000, 3004.000
+Output path: ./output/ICL/GE/ed_gpt-4o-mini_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 11:56:06.877304	ge_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+26.235, 28.603, 903.000, 3442.000
+Output path: ./output/EICL/EI/ge_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 12:13:18
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 12:15:43
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS",
+    "ED",
+    "EI"
+  ],
+  "models": [
+    "Phi-3.5",
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 12:15:48.205289	ed_gpt-4o-mini_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+52.663, 54.069, 1582.000, 3004.000
+Output path: ./output/baseline/GE/ed_gpt-4o-mini_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:16:20.491930	edos_Phi-3.5_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+52.459, 50.412, 416.000, 793.000
+Output path: ./output/baseline/GE/edos_Phi-3.5_baseline_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 12:17:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 12:17:58
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 12:18:29
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 12:18:39.872244	edos_Llama3.1_8b_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+38.335, 38.861, 304.000, 793.000
+Output path: ./output/baseline/GE/edos_Llama3.1_8b_baseline_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 12:18:55
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "ICL"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 12:19:41.291402	ei_gpt-4o-mini_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+68.349, 68.448, 1097.000, 1605.000
+Output path: ./output/ICL/GE/ei_gpt-4o-mini_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 12:19:44.757805	edos_Mistral-Nemo_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+47.541, 45.070, 377.000, 793.000
+Output path: ./output/baseline/GE/edos_Mistral-Nemo_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:20:05.934339	ei_gpt-4o-mini_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+68.349, 68.834, 1097.000, 1605.000
+Output path: ./output/EICL/GE/ei_gpt-4o-mini_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 12:21:44.957219	ei_Claude-Haiku_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+70.093, 70.706, 1125.000, 1605.000
+Output path: ./output/EICL/GE/ei_Claude-Haiku_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 12:21:47.909678	ed_Phi-3.5_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.107, 46.100, 1355.000, 3004.000
+Output path: ./output/baseline/GE/ed_Phi-3.5_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:21:54.630005	ei_Claude-Haiku_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+68.598, 69.404, 1101.000, 1605.000
+Output path: ./output/ICL/GE/ei_Claude-Haiku_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 12:30:14.118090	ed_Llama3.1_8b_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.874, 45.944, 1348.000, 3004.000
+Output path: ./output/baseline/GE/ed_Llama3.1_8b_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:33:45.665074	ed_Mistral-Nemo_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+48.768, 49.368, 1465.000, 3004.000
+Output path: ./output/baseline/GE/ed_Mistral-Nemo_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:34:49.121365	ei_Phi-3.5_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+47.477, 46.626, 762.000, 1605.000
+Output path: ./output/baseline/GE/ei_Phi-3.5_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:39:12.271293	ei_Llama3.1_8b_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+42.056, 43.307, 675.000, 1605.000
+Output path: ./output/baseline/GE/ei_Llama3.1_8b_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:40:58.762807	ei_Mistral-Nemo_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+53.333, 52.235, 856.000, 1605.000
+Output path: ./output/baseline/GE/ei_Mistral-Nemo_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 12:42:37.039628	edos_Phi-3.5_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+60.277, 59.855, 478.000, 793.000
+Output path: ./output/ICL/GE/edos_Phi-3.5_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 12:46:50.409327	edos_Llama3.1_8b_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.687, 39.231, 283.000, 793.000
+Output path: ./output/ICL/GE/edos_Llama3.1_8b_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 12:49:30.679765	edos_Mistral-Nemo_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+52.081, 51.205, 413.000, 793.000
+Output path: ./output/ICL/GE/edos_Mistral-Nemo_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 12:53:05.716246	ed_Phi-3.5_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+47.137, 48.330, 1416.000, 3004.000
+Output path: ./output/ICL/GE/ed_Phi-3.5_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:04:35.448718	ed_Llama3.1_8b_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+30.792, 35.651, 925.000, 3004.000
+Output path: ./output/ICL/GE/ed_Llama3.1_8b_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:11:17.857726	ed_Mistral-Nemo_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.073, 46.690, 1354.000, 3004.000
+Output path: ./output/ICL/GE/ed_Mistral-Nemo_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:13:01.033284	ei_Phi-3.5_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+63.863, 64.341, 1025.000, 1605.000
+Output path: ./output/ICL/GE/ei_Phi-3.5_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:18:36.307662	ei_Llama3.1_8b_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+41.931, 48.322, 673.000, 1605.000
+Output path: ./output/ICL/GE/ei_Llama3.1_8b_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:21:35.533481	ei_Mistral-Nemo_ICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+61.558, 62.034, 988.000, 1605.000
+Output path: ./output/ICL/GE/ei_Mistral-Nemo_ICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:23:05.584378	edos_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+52.207, 53.974, 414.000, 793.000
+Output path: ./output/EICL/GE/edos_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:27:04.773741	edos_Llama3.1_8b_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+50.946, 55.549, 404.000, 793.000
+Output path: ./output/EICL/GE/edos_Llama3.1_8b_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:29:40.254896	edos_Mistral-Nemo_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+52.963, 57.249, 420.000, 793.000
+Output path: ./output/EICL/GE/edos_Mistral-Nemo_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:34:45.584261	ed_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+47.403, 50.269, 1424.000, 3004.000
+Output path: ./output/EICL/GE/ed_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:49:15.081706	ed_Llama3.1_8b_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+42.743, 48.850, 1284.000, 3004.000
+Output path: ./output/EICL/GE/ed_Llama3.1_8b_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 13:58:53.885966	ed_Mistral-Nemo_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.539, 49.265, 1368.000, 3004.000
+Output path: ./output/EICL/GE/ed_Mistral-Nemo_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 14:01:05.630216	ei_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+49.907, 52.298, 801.000, 1605.000
+Output path: ./output/EICL/GE/ei_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 14:07:38.294431	ei_Llama3.1_8b_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+40.872, 50.318, 656.000, 1605.000
+Output path: ./output/EICL/GE/ei_Llama3.1_8b_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 14:11:39.155307	ei_Mistral-Nemo_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+51.277, 55.636, 823.000, 1605.000
+Output path: ./output/EICL/GE/ei_Mistral-Nemo_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 15:12:49
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 15:13:44
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 15:14:41.778035	ei_Claude-Haiku_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+58.006, 57.376, 931.000, 1605.000
+Output path: ./output/baseline/GE/ei_Claude-Haiku_baseline_GE_generated_predictions.jsonl
+
+2025-12-12 15:15:20.018716	ei_gpt-4o-mini_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+55.576, 54.639, 892.000, 1605.000
+Output path: ./output/baseline/GE/ei_gpt-4o-mini_baseline_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 15:15:24
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 15:17:44.698135	edos_Llama3.1_8b_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+38.335, 38.861, 304.000, 793.000
+Output path: ./output/baseline/GE/edos_Llama3.1_8b_baseline_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 15:18:37
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "baseline"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 15:19:14.372004	edos_Phi-3.5_baseline_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+52.459, 50.412, 416.000, 793.000
+Output path: ./output/baseline/GE/edos_Phi-3.5_baseline_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 15:21:05
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "baseline",
+    "ICL",
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 15:26:37.840044	ge_Llama3.1_8b_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+23.940, 22.156, 824.000, 3442.000
+Output path: ./output/baseline/EI/ge_Llama3.1_8b_baseline_EI_generated_predictions.jsonl
+
+2025-12-12 15:29:31.645475	ge_Mistral-Nemo_baseline_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+30.622, 26.461, 1054.000, 3442.000
+Output path: ./output/baseline/EI/ge_Mistral-Nemo_baseline_EI_generated_predictions.jsonl
+
+2025-12-12 15:39:21.646641	ge_Llama3.1_8b_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+22.981, 20.461, 791.000, 3442.000
+Output path: ./output/ICL/EI/ge_Llama3.1_8b_ICL_EI_generated_predictions.jsonl
+
+2025-12-12 15:44:47.625837	ge_Mistral-Nemo_ICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+38.059, 31.456, 1310.000, 3442.000
+Output path: ./output/ICL/EI/ge_Mistral-Nemo_ICL_EI_generated_predictions.jsonl
+
+2025-12-12 15:58:09.823325	ge_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+23.852, 25.999, 821.000, 3442.000
+Output path: ./output/EICL/EI/ge_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+2025-12-12 16:06:15.335073	ge_Mistral-Nemo_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+29.285, 28.764, 1008.000, 3442.000
+Output path: ./output/EICL/EI/ge_Mistral-Nemo_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 16:22:30
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 16:48:31
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 16:54:06
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:03:22
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:03:25.750141	ge_gpt-4o-mini_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+60.000, 25.926, 6.000, 10.000
+Output path: ./output/EICL/EI/ge_gpt-4o-mini_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:04:36
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:07:53.598291	ge_gpt-4o-mini_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.933, 36.958, 1581.000, 3442.000
+Output path: ./output/EICL/EI/ge_gpt-4o-mini_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:11:14
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:12:53
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:14:05.031430	ge_gpt-4o-mini_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.845, 36.654, 1578.000, 3442.000
+Output path: ./output/EICL/EI/ge_gpt-4o-mini_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:15:42
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:17:46.656297	ge_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+28.675, 29.437, 987.000, 3442.000
+Output path: ./output/EICL/EI/ge_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+2025-12-12 17:18:51.656156	ge_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+41.923, 34.606, 1443.000, 3442.000
+Output path: ./output/EICL/EI/ge_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:21:09
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:23:01
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:25:50.908560	ge_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.357, 32.713, 1217.000, 3442.000
+Output path: ./output/EICL/EI/ge_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+2025-12-12 17:26:17.693003	ge_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+41.255, 34.511, 1420.000, 3442.000
+Output path: ./output/EICL/EI/ge_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:30:23
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:32:34
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:32:58
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:36:28.728714	ge_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.160, 36.356, 1520.000, 3442.000
+Output path: ./output/EICL/EI/ge_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+2025-12-12 17:37:25.134265	ge_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.677, 32.671, 1228.000, 3442.000
+Output path: ./output/EICL/EI/ge_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:39:45
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:42:56.514414	ge_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+44.102, 36.532, 1518.000, 3442.000
+Output path: ./output/EICL/EI/ge_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:43:05
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:47:44.919364	ge_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.503, 32.995, 1222.000, 3442.000
+Output path: ./output/EICL/EI/ge_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:48:11
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:50:53
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 17:52:50
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 17:53:29.795367	ed_gpt-4o-mini_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+59.254, 60.544, 1780.000, 3004.000
+Output path: ./output/EICL/GE/ed_gpt-4o-mini_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 17:57:30.287813	ge_Phi-3.5_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+35.851, 32.790, 1234.000, 3442.000
+Output path: ./output/EICL/EI/ge_Phi-3.5_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 18:02:09
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 18:03:16
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 18:04:33
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 18:07:39.461396	ge_Claude-Haiku_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+42.679, 35.190, 1469.000, 3442.000
+Output path: ./output/EICL/EI/ge_Claude-Haiku_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 18:26:21
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Claude-Haiku"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 18:29:11
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 18:45:03.924451	ge_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+22.371, 22.402, 770.000, 3442.000
+Output path: ./output/EICL/EI/ge_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+2025-12-12 18:51:46.352554	ge_Mistral-Nemo_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+30.825, 28.903, 1061.000, 3442.000
+Output path: ./output/EICL/EI/ge_Mistral-Nemo_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 18:55:46
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 19:11:29.330125	ge_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+22.371, 22.402, 770.000, 3442.000
+Output path: ./output/EICL/EI/ge_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+2025-12-12 19:18:07.664751	ge_Mistral-Nemo_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+30.128, 28.481, 1037.000, 3442.000
+Output path: ./output/EICL/EI/ge_Mistral-Nemo_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 19:20:50
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Llama3.1_8b",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 19:38:28.728997	ge_Llama3.1_8b_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+27.571, 27.435, 949.000, 3442.000
+Output path: ./output/EICL/EI/ge_Llama3.1_8b_EICL_EI_generated_predictions.jsonl
+
+2025-12-12 19:45:27.011432	ge_Mistral-Nemo_EICL_EI	[Acc]	[Macro_f1]	[Correct]	[Total]
+29.576, 28.695, 1018.000, 3442.000
+Output path: ./output/EICL/EI/ge_Mistral-Nemo_EICL_EI_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 19:50:09
+Configuration:
+  {
+  "auxiliary_models": [
+    "EI"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "GE"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 19:54:03
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED",
+    "EI"
+  ],
+  "models": [
+    "Llama3.1_8b"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 20:10:48.993792	ed_Llama3.1_8b_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.706, 51.052, 1373.000, 3004.000
+Output path: ./output/EICL/GE/ed_Llama3.1_8b_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 20:18:34.204423	ei_Llama3.1_8b_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+51.028, 57.476, 819.000, 1605.000
+Output path: ./output/EICL/GE/ei_Llama3.1_8b_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 20:24:14
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED",
+    "EI"
+  ],
+  "models": [
+    "Phi-3.5",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 20:29:18.491713	ed_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+47.403, 50.269, 1424.000, 3004.000
+Output path: ./output/EICL/GE/ed_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 20:38:59.443051	ed_Mistral-Nemo_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+45.473, 49.221, 1366.000, 3004.000
+Output path: ./output/EICL/GE/ed_Mistral-Nemo_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 20:40:47.513966	ei_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+60.187, 61.385, 966.000, 1605.000
+Output path: ./output/EICL/GE/ei_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 20:43:45.373801	ei_Mistral-Nemo_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+57.321, 59.822, 920.000, 1605.000
+Output path: ./output/EICL/GE/ei_Mistral-Nemo_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 20:48:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EI"
+  ],
+  "models": [
+    "Phi-3.5",
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 20:50:59.285808	ei_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+60.561, 61.893, 972.000, 1605.000
+Output path: ./output/EICL/GE/ei_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+2025-12-12 20:54:18.540363	ei_Mistral-Nemo_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+65.296, 66.389, 1048.000, 1605.000
+Output path: ./output/EICL/GE/ei_Mistral-Nemo_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 20:56:37
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 20:58:10.600492	edos_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+57.755, 59.296, 458.000, 793.000
+Output path: ./output/EICL/GE/edos_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 20:59:35
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "ED"
+  ],
+  "models": [
+    "Mistral-Nemo"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 21:08:15.778060	ed_Mistral-Nemo_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+51.931, 53.462, 1560.000, 3004.000
+Output path: ./output/EICL/GE/ed_Mistral-Nemo_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-12 21:12:12
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-12 21:13:44.507012	edos_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+58.134, 59.795, 461.000, 793.000
+Output path: ./output/EICL/GE/edos_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-14 19:11:52
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-14 19:12:57
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-14 19:19:28
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-14 19:35:40
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-14 19:36:55.722852	edos_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+58.134, 59.795, 461.000, 793.000
+Output path: ./output/EICL/GE/edos_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-14 19:40:36
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "Phi-3.5"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-14 19:41:51.398953	edos_Phi-3.5_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+58.134, 59.795, 461.000, 793.000
+Output path: ./output/EICL/GE/edos_Phi-3.5_EICL_GE_generated_predictions.jsonl
+
+
+####################################################################################################
+Experiment result summary
+Generated at: 2025-12-14 19:45:21
+Configuration:
+  {
+  "auxiliary_models": [
+    "GE"
+  ],
+  "experiment_types": [
+    "EICL"
+  ],
+  "datasets": [
+    "EDOS"
+  ],
+  "models": [
+    "gpt-4o-mini"
+  ],
+  "config_dir": "configs"
+}
+####################################################################################################
+
+2025-12-14 19:46:11.156008	edos_gpt-4o-mini_EICL_GE	[Acc]	[Macro_f1]	[Correct]	[Total]
+65.448, 65.800, 519.000, 793.000
+Output path: ./output/EICL/GE/edos_gpt-4o-mini_EICL_GE_generated_predictions.jsonl
+
