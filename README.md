@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fine-Grained Emotion Recognition via In-Context Learning
 
 This repository contains the code for the paper **"Fine-Grained Emotion Recognition via In-Context Learning"** published at CIKM 2025.
@@ -22,7 +21,7 @@ This repository contains the code for the paper **"Fine-Grained Emotion Recognit
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/zhouzhouyang520/EICL.git
 cd EICL
 ```
 
@@ -463,3 +462,4 @@ If you find this project helpful, please cite our paper:
 # EICL
 This is the code for the paper Fine-Grained Emotion Recognition via In-Context Learning, published at CIKM 2025.
 >>>>>>> 224697e2136eb23dce4e47c6bec8d69fbf4dcf66
+
