@@ -6,6 +6,7 @@ This repository contains the code for the paper **"For more detailed results and
 
 - [Environment Setup](#environment-setup)
 - [Data Download](#data-download)
+- [Configuring File](#configuring-file)
 - [Running Instructions](#running-instructions)
 - [Performance](#performance)
 - [Citation](#citation)
@@ -63,6 +64,10 @@ Download the required data from one of the following sources:
      - `EmpatheticIntents`
      - `all_mpnet_base_v2`
      - `roberta_large_goEmotions`
+
+## Configuring File
+
+Before sending requests to Claude or ChatGPT, please fill in the “url” and “api_key” fields in ``configs/run.json``.
 
 ## Running Instructions
 
@@ -438,6 +443,7 @@ If you find this project helpful, please cite our paper:
   collection={CIKM' 25}
 }
 ```
+
 
 
 
